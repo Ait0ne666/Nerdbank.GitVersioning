@@ -21,7 +21,7 @@ public abstract class VersionFile
     /// <summary>
     /// The filename of the version.json file.
     /// </summary>
-    public const string JsonFileName = "version.json";
+    public const string JsonFileName = "package.json";
 
     /// <summary>
     /// Initializes a new instance of the <see cref="VersionFile"/> class.
